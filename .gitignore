@@ -34,3 +34,8 @@ data/*.zip
 data/PS_20174392719_1491204439457_log.csv.gz
 tools/pandoc*
 models/iso_fraud_model.pkl
+data/PS_20174392719_1491204439457_log.csv
+data/*.zip
+data/PS_20174392719_1491204439457_log.csv.gz
+tools/pandoc*
+models/iso_fraud_model.pkl
