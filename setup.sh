@@ -10,8 +10,6 @@ pip install -r requirements.txt
 
 git init
 git branch -M main
-# TODO: replace with actual GitHub repo URL
-# git remote add origin git@github.com: xxx/PaySim-Financial-Fraud-Detection.git
 
 code --install-extension ms-python.python
 code --install-extension ms-toolsai.jupyter
