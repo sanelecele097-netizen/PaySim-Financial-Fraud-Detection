@@ -14,3 +14,8 @@ tools/pandoc*
 data/PS_20174392719_1491204439457_log.csv
 data/*.zip
 tools/pandoc*
+data/PS_20174392719_1491204439457_log.csv
+data/*.zip
+tools/pandoc*
+data/PS_20174392719_1491204439457_log.csv.gz
+models/iso_fraud_model.pkl
