@@ -2,3 +2,9 @@ venv/
 data/*.csv
 data/*.zip
 tools/pandoc*
+data/*.csv
+data/*.zip
+models/*.pkl
+tools/pandoc*
+*.DS_Store
+*.Rhistory
